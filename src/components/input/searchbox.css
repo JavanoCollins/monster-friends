@@ -1,0 +1,11 @@
+#search-box {
+    padding: .8rem;
+    background-color: teal;
+    opacity: .6;
+    color: #fff;
+    border: none;
+}
+
+::placeholder {
+    color: #fff;
+}
